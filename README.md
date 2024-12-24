@@ -6,14 +6,6 @@
 
 Just a high school student from China.
 
-### About me
-
-- 📖 A Senior Grade Three student.
-
-- 🎮️ Like [Minecraft](https://www.minecraft.net/),[Arcaea](https://arcaea.lowiro.com/),[Rotaeno](http://rotaeno.com/),and so on...
-
-- 📚️ Have written fan fiction before.
-
 ### Skill Set
 
 <tr>
