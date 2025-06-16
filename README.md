@@ -5,6 +5,7 @@
 ### and do what you love and what people enjoy ✨️
 
 ~~Just a high school student from China.~~
+
 Fresh high school graduate from China, enjoying a well-deserved break.
 
 ### Skill Set
