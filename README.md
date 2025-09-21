@@ -6,7 +6,9 @@
 
 ~~Just a high school student from China.~~
 
-Fresh high school graduate from China, enjoying a well-deserved break.
+~~Fresh high school graduate from China, enjoying a well-deserved break.~~
+
+Currently studying at Fujian Agriculture and Forestry University.
 
 ### Skill Set
 
