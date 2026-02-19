@@ -26,9 +26,9 @@ Currently studying at Fujian Agriculture and Forestry University.
 
 ### Active
 
-[![mrqx0195's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrqx0195&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![mrqx0195's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mrqx0195's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrqx0195&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![mrqx0195's Most used languages](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
